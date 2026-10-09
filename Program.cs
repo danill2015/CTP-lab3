@@ -9,7 +9,7 @@ namespace MyTeamCityProject
             return "Hello, TeamCity!";
         }
 
-        public static void Main(string[] args)1
+        public static void Main(string[] args)
         {
             Console.WriteLine(GetGreeting());
         }
